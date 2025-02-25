@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    box-sizing: border-box;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.main-header {
+    background: linear-gradient(to right, #4A90E2, #9013FE);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero-content {
+    padding: 50px 0;
+}
+
+.hero-content h1 {
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.hero-content .btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    background: #9013FE;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.hero-content .btn:hover {
+    background: #6e0dc1;
+}
+
+.features-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.features-grid {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.feature-card {
+    flex: 1;
+    min-width: 250px;
+    max-width: 300px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.feature-card i {
+    font-size: 2rem;
+    color: #4A90E2;
+    margin-bottom: 10px;
+}
+
+.feature-card h3 {
+    margin: 10px 0;
+}
+
+.feature-card p {
+    color: #555;
+}
+
+
+.how-it-works-section {
+    background: #f9f9f9;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.how-it-works-section ol {
+    text-align: left;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+
+.contact-section {
+    text-align: center;
+    padding: 50px 0;
+    background: #f0f0f0;
+}
+
+.contact-section form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact-section form input, 
+.contact-section form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.contact-section form button {
+    padding: 10px 20px;
+    background: #4A90E2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact-section form button:hover {
+    background: #367bcf;
+}
+
+
+.main-footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: white;
+}
