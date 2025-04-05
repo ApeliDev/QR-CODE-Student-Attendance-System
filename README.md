@@ -42,6 +42,24 @@ A web-based QR Code Student Attendance System built using PHP, JavaScript, and C
    - Admins can log in to:
      - View and manage student and class data
      - View attendance logs
+
+---
+## 📞 Contact Information  
+Need help? Reach out to us!  
+
+📧 **Email:** [apelinifa@gmail.com](mailto:apelinifagmail.com)  
+📱 **Phone:** [+254 743161167](tel:+254743161167)  
+
+
+## 👨‍💻 Author
+**Apeli** 🚀
+
+---
+
+## 🐝 License
+This project is licensed under the MIT License.
+
+
     
 
 
