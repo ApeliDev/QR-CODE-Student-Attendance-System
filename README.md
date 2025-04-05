@@ -6,7 +6,7 @@ A web-based QR Code Student Attendance System built using PHP, JavaScript, and C
 
 - 🧑‍🎓 **Student Registration:** Capture student details, including a unique registration number.
 - 🏫 **Class Scheduling:** Register classes with specific start and end times.
-- 📲 **QR Code Scanning:** Students enter their registration number, then scan their QR code to mark attendance.
+- 📲 **QR Code Scanning:** Students scan the QR code to mark attendance then input the registration number to validate identity
 - ⏰ **Time-Based Attendance Validation:** Attendance is only recorded if the scan is done within the scheduled class time.
 - 📊 **Attendance Logging:** Accurate timestamps are logged for each entry.
 - 📤 **Export Options:** Attendance data can be exported to CSV for reporting.
