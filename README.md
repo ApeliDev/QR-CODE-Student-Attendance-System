@@ -18,7 +18,7 @@ A web-based QR Code Student Attendance System built using PHP, JavaScript, and C
 - **JavaScript** – QR code scanning and front-end interactivity
 - **CSS** – Styling and responsive layout
 - **HTML** – Page structure
-- **SQL** -For database
+- **MySQL** -For database
 - **QR Code Libraries** – For generating and scanning QR codes (e.g., QR Server)
 
 ## 📷 How It Works
